@@ -55,7 +55,7 @@ Especially, we abandon the adjustment operation used in Anomoly-Transformer and 
 
 4. **Model Checkpoint**. You can obtain the existing model checkpoint by click [here](https://github.com/IDED-TLV/IDED-TLV/blob/main/models_pth/transformer-lstm-vae-all-feature.h5), which is identical to the model used in our experiments.
 
-5. **Inference Demo**. You can quickly start an inference demo using the [i`nfer_demo.py`](https://github.com/IDED-TLV/IDED-TLV/blob/main/infer_demo.py). In Linux，you can directly execute the [`infer.sh`](https://github.com/IDED-TLV/IDED-TLV/blob/main/script/train.sh) to do the same thing. Relying on this file, you can further proceed with production-level deployment.
+5. **Inference Demo**. You can quickly start an inference demo using the [i`infer_demo.py`](https://github.com/IDED-TLV/IDED-TLV/blob/main/infer_demo.py). In Linux，you can directly execute the [`infer.sh`](https://github.com/IDED-TLV/IDED-TLV/blob/main/script/train.sh) to do the same thing. Relying on this file, you can further proceed with production-level deployment.
 
    ```bash
    python infer_demo.py --config_path "config/config.json"
