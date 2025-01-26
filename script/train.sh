@@ -1,0 +1,1 @@
+python run.py --mode train --config_path "config/config.json"

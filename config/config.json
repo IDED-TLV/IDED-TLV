@@ -1,0 +1,27 @@
+{
+  "universal": {
+    "time_step": 64,
+    "exp_name": "test",
+    "data_name": "Database",
+    "model_name": "test",
+    "percent": 90,
+    "feature_size": 6
+  },
+  "train": {
+    "dense_dim": 8,
+    "latent_dim": 16,
+    "num_heads": 4,
+    "num_layers": 2,
+    "epoch": 1,
+    "batch_size": 128,
+    "lr": 1e-3,
+    "beta": 1e-1
+  },
+  "test": {
+    "batch_size": 128
+  },
+  "inference": {
+    "threshold": 0.8093317163508755,
+    "scaler_name": "data_scaler"
+  }
+}

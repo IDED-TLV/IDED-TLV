@@ -1,0 +1,1 @@
+python deploy_demo.py --config_path "config/config.json"
