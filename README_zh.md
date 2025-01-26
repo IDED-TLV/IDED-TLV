@@ -2,7 +2,7 @@
 ---
 <p align="center">
  📑 <a  href="" target="_blank">论文</a> | 
- 🇬🇧 <a  href="" target="https://github.com/IDED-TLV/IDED-TLV/blob/main/README.md">英文版</a>
+ 🇬🇧 <a  href="https://github.com/IDED-TLV/IDED-TLV/blob/main/README.md">英文版</a>
 <p>
 
 ![](asset/overview.png)

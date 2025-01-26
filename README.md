@@ -1,7 +1,7 @@
 # Intelligent Deepwater Energy Development: flow assurance monitoring and smart decision-making system
 ---
 <p align="center">
- 📑 <a  href="" target="_blank">Paper</a> ｜ 🇨🇳 <a  href="" target="https://github.com/IDED-TLV/IDED-TLV/blob/main/README_zh.md">中文版</a> 
+ 📑 <a  href="" target="_blank">Paper</a> ｜ 🇨🇳 <a  href="https://github.com/IDED-TLV/IDED-TLV/blob/main/README_zh.md">中文版</a> 
 <p>
 
 ![](asset/overview.png)
