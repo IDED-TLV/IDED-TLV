@@ -66,12 +66,10 @@ Especially, we abandon the adjustment operation used in Anomoly-Transformer and 
 
 ## TODO
 
-<ul>
-  <li style="color: green;">✔ Open source our database (include train, test, deploy demo)</li>
-  <li style="color: green;">✔ Organize and open source our codebase</li>
-  <li style="color: green;">✔ Add the README profile</li>
-  <li style="color: red;">✘ Add the paper's citation</li>
-</ul>
+- ✅ Open source our database（include train，test，deploy demo）
+- ✅ Organize and open source our codebase
+- ✅ Add the README profile
+- ❌ Add the paper's citation
 
 ## Citation
 
