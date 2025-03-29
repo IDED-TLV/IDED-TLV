@@ -1,7 +1,7 @@
 # Intelligent Deepwater Energy Development: flow assurance monitoring and smart decision-making system
 ---
 <p align="center">
- 📑 <a  href="" target="_blank">Paper</a> ｜ 🇨🇳 <a  href="https://github.com/IDED-TLV/IDED-TLV/blob/main/README_zh.md">中文版</a> 
+ 📑 <a  href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-energy.2025.100081" target="_blank">Paper</a> ｜ 🇨🇳 <a  href="https://github.com/IDED-TLV/IDED-TLV/blob/main/README_zh.md">中文版</a> 
 <p>
 
 ![](asset/overview.png)
@@ -69,10 +69,16 @@ Especially, we abandon the adjustment operation used in Anomoly-Transformer and 
 - ✅ Open source our database
 - ✅ Organize and open source our codebase（include train, test, deploy demo）
 - ✅ Add the README profile
-- ❌ Add the paper's citation
+- ✅ Add the paper's citation
 
 ## Citation
 
 ```
-waiting to fill...
+@article{wang2025intelligent,
+  title={Intelligent Deepwater Energy Development: flow assurance monitoring and smart decision-making system},
+  author={Wang, Jiguang and Yang, Bowen and Jin, Kaiming and Zhang, Lunxiang and Wang, Linhe and Jiang, Bo and Yao, Haiyuan and Song, Yongchen},
+  journal={The Innovation Energy},
+  year={2025},
+  publisher={The Innovation Energy}
+}
 ```
