@@ -6,7 +6,7 @@
 
 ![](asset/overview.png)
 
-🎉 **Our paper has been recently accepted by _The Innovation Energy_** 🎉
+🎉 **Our paper has been accepted and published by _The Innovation Energy_** 🎉
 
 ## Introduction
 
