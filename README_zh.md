@@ -1,7 +1,7 @@
 # Intelligent Deepwater Energy Development: flow assurance monitoring and smart decision-making system
 ---
 <p align="center">
- 📑 <a  href="" target="_blank">论文</a> | 
+ 📑 <a  href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-energy.2025.100081" target="_blank">论文</a> | 
  🇬🇧 <a  href="https://github.com/IDED-TLV/IDED-TLV/blob/main/README.md">英文版</a>
 <p>
 
@@ -69,10 +69,16 @@
 - ✅ 开源我们的数据库
 - ✅ 开源代码（包括训练、测试、部署demo）
 - ✅ 添加README
-- ❌ 添加论文的引用
+- ✅ 添加论文的引用
 
 ## 引用
 
 ```
-waiting to fill...
+@article{wang2025intelligent,
+  title={Intelligent Deepwater Energy Development: flow assurance monitoring and smart decision-making system},
+  author={Wang, Jiguang and Yang, Bowen and Jin, Kaiming and Zhang, Lunxiang and Wang, Linhe and Jiang, Bo and Yao, Haiyuan and Song, Yongchen},
+  journal={The Innovation Energy},
+  year={2025},
+  publisher={The Innovation Energy}
+}
 ```
